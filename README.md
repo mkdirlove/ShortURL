@@ -45,9 +45,28 @@ optional arguments:
   ```
   python3 test.py -m single -u https://apartrents.in/dph.html
   ```
+  ```
+      ______            __  __  _____  __ 
+   / __/ /  ___  ____/ /_/ / / / _ \/ / 
+  _\ \/ _ \/ _ \/ __/ __/ /_/ / , _/ /__
+ /___/_//_/\___/_/  \__/\____/_/|_/____/
+
+Shortened URL: https://goolnk.com/vk02GL
+  ```
 
 #### Mass Mode Usage
   
   ```
   python3 test.py -m mass -f link.txt
   ```
+  ```
+     / __/ /  ___  ____/ /_/ / / / _ \/ / 
+  _\ \/ _ \/ _ \/ __/ __/ /_/ / , _/ /__
+ /___/_//_/\___/_/  \__/\____/_/|_/____/
+
+Shortened URL: https://goolnk.com/vk02GL
+Shortened URL: https://goolnk.com/8M2Z08
+Shortened URL: https://goolnk.com/WPRpAm
+Shortened URL: https://goolnk.com/QRVrED
+Shortened URL: https://goolnk.com/D5dv0E
+```
